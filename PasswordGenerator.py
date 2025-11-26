@@ -10,3 +10,4 @@ for i in range(length):
     password += random.choice(characters)
 
 print("Generated Password:", password)
+
