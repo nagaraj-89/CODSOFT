@@ -1,2 +1,1 @@
-# CODSOFT
-Python Programming Virtual Internship by CODSOFT
+📘 CodSoft Python Programming Internship4-Week Virtual Internship (Nov–Dec 2025)Intern: Nagaraj📝 OverviewThis repository contains the tasks completed during my Python Programming Internship with CodSoft.The internship focuses on building real-world Python skills through hands-on projects.
